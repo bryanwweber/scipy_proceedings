@@ -1,14 +1,14 @@
 {
   "proceedings": {
-     "citation_key": "proc-scipy-2010", 
+     "citation_key": "proc-scipy-2010",
      "title": {
        "acronym": "SciPy",
        "conference": "Python in Science Conference",
        "ordinal": "9th",
-       "short": "PROC. OF THE 9th PYTHON IN SCIENCE CONF. (SCIPY 2010)",
+       "short": "PROC. OF THE 9th PYTHON IN SCIENCE CONF. (SCIPY 2016)",
        "full": "Proceedings of the 9th Python in Science Conference"
      },
-     "year": "2010",
+     "year": "2016",
      "editor": [
         "Stéfan van der Walt",
         "Jarrod Millman"
@@ -36,7 +36,7 @@
                  "org": "Enthought, Inc."}
                 ]
         },
-  
+
         {
             "name": "Program Chairs",
             "members": [
@@ -56,5 +56,3 @@
       }
   ]
 }
-
-
